@@ -16,6 +16,10 @@ Programa desenvolvido para fazer calculo de RPM de torno mecânico e Fresadora
 
 # Dia 2
 Alterador de propriedades de estilos do css.
+![day2](https://user-images.githubusercontent.com/60052506/95401530-d63f4080-08e3-11eb-91e0-21971664897b.PNG)
 
-#![day2](https://user-images.githubusercontent.com/60052506/95401530-d63f4080-08e3-11eb-91e0-21971664897b.PNG)
+# Dia 3
+Calculadora básica.
+![day3](https://user-images.githubusercontent.com/60052506/95643407-5cdf5380-0a85-11eb-807d-15f6d1ef5e83.PNG)
+
 
